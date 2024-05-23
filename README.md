@@ -1,5 +1,5 @@
 # 💫 Acerca de mí:
-"¡Hola! Soy Jonathan David Montes Diaz 😎, un apasionado<br> al desarrollo de software💻. Mi dedicación y curiosidad me llevan<br>a explorar constantemente nuevas ideas y tecnologías<br>para mejorar y crecer en mi campo. <br>Creo en el poder de la colaboración y la comunidad para <br>impulsar el progreso. Cuando no estoy inmerso en proyectos,<br> disfruto en aprender cosas nuevas. <br>¡Bienvenido a mi perfil, y gracias por explorar mi trabajo!"
+"¡Hola! Soy Jonathan David Montes Diaz 😎, un apasionado<br> al desarrollo de software💻. Mi dedicación y curiosidad me llevan a explorar constantemente nuevas ideas y tecnologías<br>para mejorar y crecer en mi campo. Creo en el poder de la colaboración y la comunidad para impulsar el progreso. Cuando no estoy inmerso en proyectos, disfruto en aprender cosas nuevas. <br>¡Bienvenido a mi perfil, y gracias por explorar mi trabajo!"
 
 
 ## 🌐 Social:
